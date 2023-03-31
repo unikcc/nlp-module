@@ -1,0 +1,1 @@
+nnictl create --config experiment_conf.yaml -p 28268
